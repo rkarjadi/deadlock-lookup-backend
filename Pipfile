@@ -8,6 +8,7 @@ requests = "*"
 flask = "*"
 dotenv = "*"
 gunicorn = "*"
+flask-cors = "*"
 
 [dev-packages]
 
